@@ -2,7 +2,7 @@
 import pymysql as pyms
 
 #数据库连接信息
-#db_config = {"host":"localhost","user":"root","password":"886655","data_base":"AshareDayPrices","port":3306}
+#db_config = {"host":"localhost","user":"user","password":"pwd","data_base":"database","port":3306}
 
 
 #连接数据库
